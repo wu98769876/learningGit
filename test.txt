@@ -7,3 +7,4 @@ Add a new line.New branch test.
 =======
 12345 AND simple.
 >>>>>>> dev
+solve the bug
