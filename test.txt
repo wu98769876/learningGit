@@ -1,3 +1,4 @@
 ﻿This is a new git file test！
 Add content.Modified this file.
 Test stage and master.
+Add a new line.
